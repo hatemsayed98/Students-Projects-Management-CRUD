@@ -1,8 +1,10 @@
 # Students-Projects-Management-CRUD
 
+This project is for educational purposes, for applying CRUD operations for managing students' projects and its courses, fees and names.
+
+
 ![Home](https://user-images.githubusercontent.com/36468401/214275272-86837f94-d8cb-448a-88d6-e21f6ead847e.PNG)
 
-This project is for applying CRUD operations for managing students' projects and its courses, fees and names.
 
 ## Description
 
